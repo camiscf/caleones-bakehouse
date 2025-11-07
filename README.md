@@ -2,7 +2,7 @@
 
 Bem-vindo ao cardápio online da **Caleones Bakehouse**, uma confeitaria artesanal feita com muito amor e sabor 💜  
 
-Este site foi criado para apresentar os produtos de forma moderna, leve e acessível, com design responsivo e modo escuro.
+Este site foi criado para apresentar os produtos da doceria da minha irmã, Natália, forma moderna, leve e acessível, com design responsivo e modo escuro.
 
 ---
 
